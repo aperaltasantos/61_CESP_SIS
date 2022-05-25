@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Escola Nacional de Saúde Pública
+## 61 Curso de Especialização em Saúde Pública
 
-You can use the [editor on GitHub](https://github.com/aperaltasantos/61_CESP_SIS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Casos práticos de estratégias de análise de dados
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Briefing**
 
-### Markdown
+1.	A Organização Mundial de Saúde contratou a vossa equipa para dar apoio a um país da asia central de forma a melhorar os sistemas de informação de vigilância epidemiológica. 
+2.	No briefing sabem que em março de 2020 se iniciou um surto de uma doença respiratória, sabe-se que o período de incubação é em média 3 a 5 dias, depois dos primeiros sintomas o agravamento e hospitalização acontece 7 dias depois e a morte 14 dias depois. 
+3.	O sistema de informação de vigilância epidemiológica é de base hospitalar, com recolha de dados individuais de cada caso no sistema de registo clínico, mas os resultados são inseridos de forma manual e agregada no sistema de informação de vigilância epidemiológica. 
+4.	A vossa equipa tem acesso à base de dados do sistema de informação de vigilância epidemiológica tal como é extraída do sistema [editor on GitHub](https://github.com/aperaltasantos/61_CESP_SIS/edit/gh-pages/index.md) . 
+5.	O país da asia central iniciou a vacinação em Janeiro de 2021 e está interessado em analisar a efetividade vacinal para infeção, hospitalização e morte. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Atividades** 
 
-```markdown
-Syntax highlighted code block
+6.	Devem analisar a base de dados do sistema de informação de vigilância epidemiológica e identificar e documentar inconsistências nos dados, referindo a potencial causa e estratégia de correção na fase de análise. 
+7.	Devem apresentar uma estratégia de análise dos dados de forma a calcular no número agregado de casos por semana (semana ISO), e a proporção de hospitalização e letalidade. 
+8.	Devem apresentar os resultados agregados de casos por semana (semana ISO), e a proporção de hospitalização e letalidade. 
+9.	Devem elaborar um plano de recomendações de curto prazo para melhoria do sistema de informação de vigilância epidemiológica. 
+10.	Devem elaborar um plano de recomendações para o sistema de informação em saúde que permita a realização de estudos efetividade vacinal para infeção, hospitalização e morte. 
 
-# Header 1
-## Header 2
-### Header 3
+**Dados** 
+[editor on GitHub](https://github.com/aperaltasantos/61_CESP_SIS/edit/gh-pages/index.md) 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aperaltasantos/61_CESP_SIS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
