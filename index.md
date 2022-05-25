@@ -8,7 +8,7 @@
 1.	A Organização Mundial de Saúde contratou a vossa equipa para dar apoio a um país da asia central de forma a melhorar os sistemas de informação de vigilância epidemiológica. 
 2.	No briefing sabem que em março de 2020 se iniciou um surto de uma doença respiratória, sabe-se que o período de incubação é em média 3 a 5 dias, depois dos primeiros sintomas o agravamento e hospitalização acontece 7 dias depois e a morte 14 dias depois. 
 3.	O sistema de informação de vigilância epidemiológica é de base hospitalar, com recolha de dados individuais de cada caso no sistema de registo clínico, mas os resultados são inseridos de forma manual e agregada no sistema de informação de vigilância epidemiológica. 
-4.	A vossa equipa tem acesso à base de dados do sistema de informação de vigilância epidemiológica tal como é extraída do sistema [editor on GitHub](https://github.com/aperaltasantos/61_CESP_SIS/edit/gh-pages/index.md) . 
+4.	A vossa equipa tem acesso à base de dados do sistema de informação de vigilância epidemiológica tal como é extraída do sistema [Base de dados]([https://github.com/aperaltasantos/61_CESP_SIS/edit/gh-pages/index.md](https://github.com/aperaltasantos/61_CESP_SIS/blob/gh-pages/data_final_2022-05-25.csv)) . 
 5.	O país da asia central iniciou a vacinação em Janeiro de 2021 e está interessado em analisar a efetividade vacinal para infeção, hospitalização e morte. 
 
 **Atividades** 
@@ -20,6 +20,7 @@
 10.	Devem elaborar um plano de recomendações para o sistema de informação em saúde que permita a realização de estudos efetividade vacinal para infeção, hospitalização e morte. 
 
 **Dados** 
-[editor on GitHub](https://github.com/aperaltasantos/61_CESP_SIS/edit/gh-pages/index.md) 
+
+[Base de dados]([https://github.com/aperaltasantos/61_CESP_SIS/edit/gh-pages/index.md](https://github.com/aperaltasantos/61_CESP_SIS/blob/gh-pages/data_final_2022-05-25.csv))
 
 
